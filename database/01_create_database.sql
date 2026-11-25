@@ -1,0 +1,3 @@
+CREATE DATABASE CyberLab;
+USE CyberLab;
+SELECT DATABASE(); 
